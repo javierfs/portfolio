@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://datavisualytics.com/"
 languageCode = "en-us"
-title = "Visual Datalitikeri: Turning data into actionable business insights"
+title = "Visual Datalytics: Turning data into actionable business insights"
 theme = "newsroom"
