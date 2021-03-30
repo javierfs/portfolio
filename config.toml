@@ -1,4 +1,5 @@
-baseURL = "http://visualdatalytics.com/"
+baseURL = "http://hardcore-mayer-db0a10.netlify.app"
 languageCode = "en-us"
 title = "Visual Datalytics: Turning data into actionable business insights"
 theme = "newsroom"
+
