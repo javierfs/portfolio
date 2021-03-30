@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Visual Datalitikeri: Turning data into actionable business insights"
+theme = "newsroom"
